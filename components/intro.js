@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import profilePic from "@/public/alejandro-portrait.jpeg"
+import profilePic from "@/public/assets/alejandroPortrait.jpeg"
 import { BsArrowRight, BsGithub, BsLinkedin } from "react-icons/bs";
 import { HiDownload } from "react-icons/hi";
 

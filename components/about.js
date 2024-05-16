@@ -1,9 +1,8 @@
-import SectionHeading from "./sectionHeading"
 
 export default function About() {
   return (
     <section className="mt-5 mb-28 max-w-[45rem] text-center leading-8 sm:mb-40 scroll-mt-28">
-      <SectionHeading>About me</SectionHeading>
+      <h1>About Me</h1>
       <p className="mb-3">
         After returning from work in the ESL industry in Japan, I decided to pursue my passion for computers and technology. I enrolled in a coding bootcamp and learned{" "}
         <span className="font-medium">full-stack web development</span>.
